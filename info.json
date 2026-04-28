@@ -1,12 +1,16 @@
 {
   "name": "jsquared-patches",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "title": "JSquaredOver6's Patches",
   "author": "jsquaredover6",
   "homepage": "https://github.com/j1h7e7/factorio-mod-patches",
   "description": "Some custom patches for personal use",
   "factorio_version": "2.0",
-  "dependencies": ["base", "? aai-industry", "? nulls-k2so-tweaks"],
+  "dependencies": [
+    "base",
+    "? aai-industry",
+    "? nulls-k2so-tweaks"
+  ],
   "quality_required": true,
   "rail_bridges_required": true,
   "space_travel_required": true,
